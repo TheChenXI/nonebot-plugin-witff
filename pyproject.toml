@@ -1,0 +1,14 @@
+[project]
+name = "nonebot_plugin_witff"
+version = "0.1.7"
+description = "兽聚是什么时候? | 兽聚时间查询插件"
+authors = [
+    {name = "Kcy7", email = "2418705248@qq.com"},
+]
+dependencies = ["nonebot2", "httpx", "nonebot-adapter-onebot"]
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.pdm]
+distribution = false
