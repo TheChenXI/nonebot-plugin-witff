@@ -16,7 +16,7 @@ When Is The FurryFusion? | 兽聚是什么时候? | 兽聚时间查询插件
 
 ## 前文
 
-### 感谢<a href="https://github.com/Ekac00/nonebot-plugin-furryfusion/">✨ 兽聚动态 ✨</a>
+### 感谢<a href="https://github.com/Ekac00/nonebot-plugin-furryfusion/">✨ 兽聚动态 ✨</a>的启发
 
 ### 感谢<a href="https://console-docs.apipost.cn/preview/fcba96ab381efa80/fdb51b00b68a9bbf?target_id=3a8b741e-9648-4469-8f47-98484378fdcf">兽云祭</a>所提供的API
 
@@ -39,7 +39,13 @@ plugins = ["nonebot_plugin_witff"]
 ### 指令表
 | 指令 | 权限 | 需要@ | 范围 | 说明 |
 |:-----:|:----:|:----:|:----:|:----:|
-| /兽聚 | 群员 | 否 | 群聊 | 查询兽聚  |
-| /兽聚  {页码} | 群员 | 否 | 群聊 | 查询兽聚  |
-| /兽聚 搜索 XXX| 群员 | 否 | 群聊 | 查询兽聚  |
+| /兽聚 | 群员 | 否 | 群聊/私聊 | 查询兽聚  |
+| /兽聚  {页码} | 群员 | 否 | 群聊/私聊 | 查询兽聚  |
+| /兽聚 搜索 XXX| 群员 | 否 | 群聊/私聊 | 查询兽聚  |
 
+
+
+### Pending[高中学业忙，不定时更新]
+ - [x] 分条发送
+ - [ ] 图片发送
+ - [ ] 兽聚详细信息
