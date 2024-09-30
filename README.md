@@ -22,6 +22,10 @@ When Is The FurryFusion? | 兽聚是什么时候? | 兽聚时间查询插件
 
 ## 安装
 
+### [推荐] 使用nb命令安装
+
+nb plugin install nonebot_plugin_witff
+
 ### Pip安装
 
  pip install nonebot-plugin-witff
