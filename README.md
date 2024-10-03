@@ -10,6 +10,10 @@ When Is The FurryFusion? | 兽聚是什么时候? | 兽聚时间查询插件
 </a>
 <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="python">
 
+<a href="https://pypi.python.org/pypi/nonebot-plugin-furryfusion">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-furryfusion.svg" alt="pypi">
+</a>
+
 </div>
 
 ### <del>初入茅庐高中牲,第一次使用Github/Pypi，如果有错误,还请谅解,请多多包容,非常感谢</del>
