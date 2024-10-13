@@ -55,5 +55,5 @@ plugins = ["nonebot_plugin_witff"]
 
 ### Pending[高中学业忙，不定时更新]
  - [x] 分条发送
- - [ ] 图片发送
+ - [x] 图片发送 <del>[也许?]</del>
  - [ ] 兽聚详细信息
